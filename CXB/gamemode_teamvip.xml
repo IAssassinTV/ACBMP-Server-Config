@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<GameMode Name="TEAMVIP" EngineName="teamvip" idGameMode="7" SessionType="0" MinPlayers="6" MaxPlayers="8" TopPlayers="8" IdMetaSession="-1" IsTeamMode="true" CanJoinInGame="true" CanJoinWithGroup="true" JoinMaxGroupSize="4" PrivateMinPlayers="2" UseAnimationForVIPDeath="true" TemplarGrade="Team" SearchExpirationTime="10.0f" MaxSessionToTry="5" normalBlacklistedSessionTime="40" SearchStrategy="1">
+<GameMode Name="TEAMVIP" EngineName="teamvip" idGameMode="7" SessionType="0" MinPlayers="2" MaxPlayers="8" TopPlayers="8" IdMetaSession="-1" IsTeamMode="true" CanJoinInGame="true" CanJoinWithGroup="true" JoinMaxGroupSize="2" PrivateMinPlayers="2" UseAnimationForVIPDeath="true" TemplarGrade="Team" SearchExpirationTime="10.0f" MaxSessionToTry="5" normalBlacklistedSessionTime="40" SearchStrategy="1">
   <GBrick_Timer Start="StartRound" Cancel="NoMoreEnoughPlayers" Show="InGame,StartRound" Hide="GameStateEnded,StartInterround" OnFinished="TimerEnded" DurationFromNbTeams="true" GameDuration="240" Duration3Teams="240" Duration4Teams="180" Play1mnVoice="false" Play30sVoice="true"/>
   <GBrick_Respawn Start="CanSpawnInWhiteRoom" OnFinished="SpawnedInWhiteRoom" RespawnTime="0" RandomSkin="false" SpawnInWhiteRoom="true"/>
   <GBrick_Respawn Start="AbilitySelectionRequestRespawn" OnFinished="RespawnRestart" RespawnTime="0" SpawnPointType="0" SpawnPointRule="6" RandomSkin="false" SpawnInWhiteRoom="false"/>
@@ -65,7 +65,7 @@
   <GBrick_SelectTeams Start="ServerNewTeamChoosen,ServerTeamCanceled" OnFinished="SelectTeamsFinished"/>
   <GBrick_Delay Start="ScoresSent" OnFinished="ScoresSentDelayed" DelayDuration="2.f"/>
   <GBrick_DestroyTeams Start="ScoresSentDelayed"/>
-  <GBrick_Matchmaking Start="GameModeInitialized" OnFinished="SessionReady" TimeBeforeMergingSession="20" BaseTimeBetweenSearch="10" PlayerDelayBetweenSearch="1" ResetTimerOnJoin="false" BaseTimeAddedOnJoin="2" AddPlayerDelayOnJoin="true" RandomMaxTime="5" WaitForSkinsToLoadMap="true" UseMatchMakingNatFilter="true" UseHUDCounterBehaviour="true"/>
+  <GBrick_Matchmaking Start="GameModeInitialized" OnFinished="SessionReady" TimeBeforeMergingSession="20" BaseTimeBetweenSearch="10" PlayerDelayBetweenSearch="1" ResetTimerOnJoin="false" BaseTimeAddedOnJoin="2" AddPlayerDelayOnJoin="true" RandomMaxTime="5" WaitForSkinsToLoadMap="true" UseMatchMakingNatFilter="false" UseHUDCounterBehaviour="true"/>
   <GBrick_BloodBath Start="InGame" Stop="GameStateEnded"/>
   <GBrick_BlockPlayer Start="GameModeInitialized,GameStateEnded,LocalPlayerEndOfDeath,StartInterround,TeamLoop" Stop="EngineExitWhiteRoom"/>
   <GBrick_RequestRespawnWhileHumiliated Start="InGame" Stop="GameStateEnded" YButtonInterval="5.0f" TimeToBlinkFirst="1.0f" TimeToBlinkLast="1.0f" BlinkIntervalFirst="0.2f" BlinkIntervalLast="0.1f"/>
