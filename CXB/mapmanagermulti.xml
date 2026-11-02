@@ -100,7 +100,7 @@
       </UnlockableUnlockCondition>
       <UnlockableUnlockCondition memberName="UnlockConditionList">
         <Handle propertyName="UnlockableRef" objID="395991210"/>
-        <Pointer propertyName="UnlockConditionRef" classID="38051144">
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
           <UnlockConditionDLC memberName="UnlockConditionRef">
             <Code value="DLC2"/>
           </UnlockConditionDLC>
@@ -108,7 +108,7 @@
       </UnlockableUnlockCondition>
       <UnlockableUnlockCondition memberName="UnlockConditionList">
         <Handle propertyName="UnlockableRef" objID="395991211"/>
-        <Pointer propertyName="UnlockConditionRef" classID="38051144">
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
           <UnlockConditionDLC memberName="UnlockConditionRef">
             <Code value="DLC2"/>
           </UnlockConditionDLC>
@@ -116,7 +116,7 @@
       </UnlockableUnlockCondition>
       <UnlockableUnlockCondition memberName="UnlockConditionList">
         <Handle propertyName="UnlockableRef" objID="395991212"/>
-        <Pointer propertyName="UnlockConditionRef" classID="38051144">
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
           <UnlockConditionDLC memberName="UnlockConditionRef">
             <Code value="DLC2"/>
           </UnlockConditionDLC>
