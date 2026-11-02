@@ -1,0 +1,540 @@
+<?xml version="1.0"?>
+<root>
+  <ScoreBonusManager memberName="ScoreBonusManager">
+    <m_ScoreBonusList Array_Size="41">
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162738">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="12"/>
+          <ID_Enum_ScoreBonusType value="0" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="295493"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313961"/>
+          </UIString>
+          <Value value="50"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162742">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="13"/>
+          <ID_Enum_ScoreBonusType value="0" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="295494"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313962"/>
+          </UIString>
+          <Value value="200"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162746">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="14"/>
+          <ID_Enum_ScoreBonusType value="0" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="310985"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313963"/>
+          </UIString>
+          <Value value="300"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162758">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="15"/>
+          <ID_Enum_ScoreBonusType value="0" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="295500"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313964"/>
+          </UIString>
+          <Value value="100"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162762">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="16"/>
+          <ID_Enum_ScoreBonusType value="0" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="309838"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313965"/>
+          </UIString>
+          <Value value="150"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162750">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="17"/>
+          <ID_Enum_ScoreBonusType value="0" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="295495"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313966"/>
+          </UIString>
+          <Value value="150"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162754">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="18"/>
+          <ID_Enum_ScoreBonusType value="0" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="295499"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313967"/>
+          </UIString>
+          <Value value="200"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162766">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="35"/>
+          <ID_Enum_ScoreBonusType value="1" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="309840"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313978"/>
+          </UIString>
+          <Value value="200"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162770">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="29"/>
+          <ID_Enum_ScoreBonusType value="1" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="295496"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313973"/>
+          </UIString>
+          <Value value="100"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162774">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="30"/>
+          <ID_Enum_ScoreBonusType value="1" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="295666"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313974"/>
+          </UIString>
+          <Value value="50"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162778">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="31"/>
+          <ID_Enum_ScoreBonusType value="1" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="295667"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313975"/>
+          </UIString>
+          <Value value="100"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162786">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="19"/>
+          <ID_Enum_ScoreBonusType value="0" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="295497"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313968"/>
+          </UIString>
+          <Value value="50"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162790">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="20"/>
+          <ID_Enum_ScoreBonusType value="0" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="295498"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313969"/>
+          </UIString>
+          <Value value="50"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162794">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="32"/>
+          <ID_Enum_ScoreBonusType value="1" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="309837"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313976"/>
+          </UIString>
+          <Value value="50"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162802">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="21"/>
+          <ID_Enum_ScoreBonusType value="0" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="309841"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313970"/>
+          </UIString>
+          <Value value="50"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162806">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="22"/>
+          <ID_Enum_ScoreBonusType value="0" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="316116"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="316117"/>
+          </UIString>
+          <Value value="50"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162810">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="33"/>
+          <ID_Enum_ScoreBonusType value="1" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="310997"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313977"/>
+          </UIString>
+          <Value value="50"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162782">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="34"/>
+          <ID_Enum_ScoreBonusType value="1" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="314010"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="314011"/>
+          </UIString>
+          <Value value="100"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162814">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="23"/>
+          <ID_Enum_ScoreBonusType value="0" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="314188"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="314189"/>
+          </UIString>
+          <Value value="50"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162798">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="24"/>
+          <ID_Enum_ScoreBonusType value="0" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="311010"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313971"/>
+          </UIString>
+          <Value value="100"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162818">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="25"/>
+          <ID_Enum_ScoreBonusType value="0" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="295699"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313972"/>
+          </UIString>
+          <Value value="200"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162822">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="28"/>
+          <ID_Enum_ScoreBonusType value="0" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="314187"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="316398"/>
+          </UIString>
+          <Value value="50"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162826">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="36"/>
+          <ID_Enum_ScoreBonusType value="1" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="310999"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313979"/>
+          </UIString>
+          <Value value="200"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162830">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="37"/>
+          <ID_Enum_ScoreBonusType value="1" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="311000"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313980"/>
+          </UIString>
+          <Value value="400"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162834">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="38"/>
+          <ID_Enum_ScoreBonusType value="1" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="311002"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313981"/>
+          </UIString>
+          <Value value="600"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162838">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="39"/>
+          <ID_Enum_ScoreBonusType value="2" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="311004"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313984"/>
+          </UIString>
+          <Value value="50"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162854">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="43"/>
+          <ID_Enum_ScoreBonusType value="2" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="316120"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="316121"/>
+          </UIString>
+          <Value value="50"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162858">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="44"/>
+          <ID_Enum_ScoreBonusType value="2" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="316122"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="316123"/>
+          </UIString>
+          <Value value="75"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162842">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="41"/>
+          <ID_Enum_ScoreBonusType value="2" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="311008"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313986"/>
+          </UIString>
+          <Value value="75"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162846">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="40"/>
+          <ID_Enum_ScoreBonusType value="2" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="310996"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313985"/>
+          </UIString>
+          <Value value="100"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162850">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="42"/>
+          <ID_Enum_ScoreBonusType value="2" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="310995"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313987"/>
+          </UIString>
+          <Value value="100"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162866">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="45"/>
+          <ID_Enum_ScoreBonusType value="3" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="314012"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="314013"/>
+          </UIString>
+          <Value value="200"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162862">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="46"/>
+          <ID_Enum_ScoreBonusType value="3" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="313497"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313993"/>
+          </UIString>
+          <Value value="300"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162870">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="47"/>
+          <ID_Enum_ScoreBonusType value="3" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="313498"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313994"/>
+          </UIString>
+          <Value value="400"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162876">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="48"/>
+          <ID_Enum_ScoreBonusType value="3" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="313495"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="313995"/>
+          </UIString>
+          <Value value="1000"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162884">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="50"/>
+          <ID_Enum_ScoreBonusType value="3" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="316125"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="316126"/>
+          </UIString>
+          <Value value="100"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2541162880">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="49"/>
+          <ID_Enum_ScoreBonusType value="3" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="316124"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="316127"/>
+          </UIString>
+          <Value value="200"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2547853909">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="11"/>
+          <ID_Enum_ScoreBonusType value="0" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="316760"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="316761"/>
+          </UIString>
+          <Value value="100"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2547853917">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="51"/>
+          <ID_Enum_ScoreBonusType value="0" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Value value="0"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2547853918">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="26"/>
+          <ID_Enum_ScoreBonusType value="0" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="313538"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Value value="150"/>
+        </ScoreBonusData>
+      </Reference>
+      <Reference propertyName="ScoreBonusList" classID="428924268" objID="2547853919">
+        <ScoreBonusData memberName="ScoreBonusList">
+          <Index value="27"/>
+          <ID_Enum_ScoreBonusType value="0" name="Type"/>
+          <UIString memberName="BonusName">
+            <OasisLineID value="313528"/>
+          </UIString>
+          <UIString memberName="BonusDescription">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Value value="300"/>
+        </ScoreBonusData>
+      </Reference>
+    </m_ScoreBonusList>
+  </ScoreBonusManager>
+</root>

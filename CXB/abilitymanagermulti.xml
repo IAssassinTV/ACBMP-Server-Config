@@ -1,0 +1,2786 @@
+<?xml version="1.0"?>
+<root>
+  <AbilityManagerMulti memberName="AbilityManagerMulti">
+    <m_AbilityReferenceList Array_Size="75">
+      <Reference propertyName="AbilityReferenceList" classID="3524653032" objID="2364408405">
+        <AbilityDisguise memberName="AbilityReferenceList">
+          <Icon value="3618487804"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="294850"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="307149"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316330"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316308"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <CooldownDuration value="60.0"/>
+          <Duration value="15.0"/>
+          <InstantEffect value="false"/>
+          <GrantsHidden value="false"/>
+          <SwapSkinFXType value="0"/>
+        </AbilityDisguise>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="3524653032" objID="2375577778">
+        <AbilityDisguise memberName="AbilityReferenceList">
+          <Icon value="3618487804"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318059"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310644"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310644"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316330"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316308"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408405"/>
+          <CooldownDuration value="60.0"/>
+          <Duration value="20.0"/>
+          <InstantEffect value="false"/>
+          <GrantsHidden value="false"/>
+          <SwapSkinFXType value="0"/>
+        </AbilityDisguise>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="3524653032" objID="2375577784">
+        <AbilityDisguise memberName="AbilityReferenceList">
+          <Icon value="3618487804"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318060"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310651"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="317866"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310651"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316330"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316308"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408405"/>
+          <CooldownDuration value="60.0"/>
+          <Duration value="15.0"/>
+          <InstantEffect value="false"/>
+          <GrantsHidden value="true"/>
+          <SwapSkinFXType value="1"/>
+        </AbilityDisguise>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="3524653032" objID="1472009181">
+        <AbilityDisguise memberName="AbilityReferenceList">
+          <Icon value="3618487804"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318061"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310647"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="317866"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310647"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316330"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316308"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408405"/>
+          <CooldownDuration value="50.0"/>
+          <Duration value="15.0"/>
+          <InstantEffect value="false"/>
+          <GrantsHidden value="true"/>
+          <SwapSkinFXType value="0"/>
+        </AbilityDisguise>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="891829267" objID="2364408430">
+        <AbilitySpeedBoost memberName="AbilityReferenceList">
+          <Icon value="3618487884"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="294853"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="307152"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316316"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316317"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <CooldownDuration value="60.0"/>
+          <Duration value="5.0"/>
+          <SpeedFactor value="1.2"/>
+        </AbilitySpeedBoost>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="891829267" objID="1472009199">
+        <AbilitySpeedBoost memberName="AbilityReferenceList">
+          <Icon value="3618487884"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318066"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310644"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310644"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316316"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316317"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408430"/>
+          <CooldownDuration value="60.0"/>
+          <Duration value="6.5"/>
+          <SpeedFactor value="1.2"/>
+        </AbilitySpeedBoost>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="891829267" objID="2375577820">
+        <AbilitySpeedBoost memberName="AbilityReferenceList">
+          <Icon value="3618487884"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318068"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310658"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="317866"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310658"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316316"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316317"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408430"/>
+          <CooldownDuration value="60.0"/>
+          <Duration value="5.0"/>
+          <SpeedFactor value="1.3"/>
+        </AbilitySpeedBoost>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="891829267" objID="2375577826">
+        <AbilitySpeedBoost memberName="AbilityReferenceList">
+          <Icon value="3618487884"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318067"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310647"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="317866"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310647"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316316"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316317"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408430"/>
+          <CooldownDuration value="50.0"/>
+          <Duration value="5.0"/>
+          <SpeedFactor value="1.2"/>
+        </AbilitySpeedBoost>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2396842110" objID="2364408427">
+        <AbilitySmokeBomb memberName="AbilityReferenceList">
+          <Icon value="3618487874"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="294849"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="307148"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316305"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316306"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <CooldownDuration value="60.0"/>
+          <Radius value="3.2"/>
+          <Duration value="3.0"/>
+          <Delay value="0.75"/>
+        </AbilitySmokeBomb>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2396842110" objID="1472009205">
+        <AbilitySmokeBomb memberName="AbilityReferenceList">
+          <Icon value="3618487874"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318065"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310646"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310646"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316305"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316306"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408427"/>
+          <CooldownDuration value="60.0"/>
+          <Radius value="4.0"/>
+          <Duration value="3.0"/>
+          <Delay value="0.75"/>
+        </AbilitySmokeBomb>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2396842110" objID="2375577790">
+        <AbilitySmokeBomb memberName="AbilityReferenceList">
+          <Icon value="3618487874"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318063"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310644"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="317866"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310644"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316305"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316306"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408427"/>
+          <CooldownDuration value="60.0"/>
+          <Radius value="3.2"/>
+          <Duration value="4.0"/>
+          <Delay value="0.75"/>
+        </AbilitySmokeBomb>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2396842110" objID="2375577796">
+        <AbilitySmokeBomb memberName="AbilityReferenceList">
+          <Icon value="3618487874"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318064"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310647"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="317866"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310647"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316305"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316306"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408427"/>
+          <CooldownDuration value="50.0"/>
+          <Radius value="3.2"/>
+          <Duration value="3.0"/>
+          <Delay value="0.75"/>
+        </AbilitySmokeBomb>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2152009643" objID="2364408411">
+        <AbilityHiddenGun memberName="AbilityReferenceList">
+          <Icon value="3618487824"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="294852"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="307151"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316311"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316313"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <CooldownDuration value="90.0"/>
+          <FocusDuration value="1.5"/>
+          <TargetAwarnessDelay value="0.1"/>
+          <MinHit value="0.1"/>
+        </AbilityHiddenGun>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2152009643" objID="2375577881">
+        <AbilityHiddenGun memberName="AbilityReferenceList">
+          <Icon value="3618487824"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318071"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="313533"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="313533"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316311"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316313"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408411"/>
+          <CooldownDuration value="90.0"/>
+          <FocusDuration value="1.5"/>
+          <TargetAwarnessDelay value="0.1"/>
+          <MinHit value="0.3"/>
+        </AbilityHiddenGun>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2152009643" objID="2375577814">
+        <AbilityHiddenGun memberName="AbilityReferenceList">
+          <Icon value="3618487824"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318069"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310655"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="317866"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310655"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316311"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316313"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408411"/>
+          <CooldownDuration value="90.0"/>
+          <FocusDuration value="1.0"/>
+          <TargetAwarnessDelay value="0.1"/>
+          <MinHit value="0.1"/>
+        </AbilityHiddenGun>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2152009643" objID="1472009193">
+        <AbilityHiddenGun memberName="AbilityReferenceList">
+          <Icon value="3618487824"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318070"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310647"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="317866"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310647"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316311"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316313"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408411"/>
+          <CooldownDuration value="80.0"/>
+          <FocusDuration value="1.5"/>
+          <TargetAwarnessDelay value="0.1"/>
+          <MinHit value="0.1"/>
+        </AbilityHiddenGun>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2656283602" objID="2364408410">
+        <AbilityFireCracker memberName="AbilityReferenceList">
+          <Icon value="3618487814"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="294856"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="307155"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316322"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316323"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <CooldownDuration value="45.0"/>
+          <Radius value="12.0"/>
+          <RadiusMaxIntensity value="6.0"/>
+          <Duration value="6.0"/>
+        </AbilityFireCracker>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2656283602" objID="2375577917">
+        <AbilityFireCracker memberName="AbilityReferenceList">
+          <Icon value="3618487814"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318083"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310646"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310646"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316322"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316323"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408410"/>
+          <CooldownDuration value="45.0"/>
+          <Radius value="12.0"/>
+          <RadiusMaxIntensity value="7.5"/>
+          <Duration value="6.0"/>
+        </AbilityFireCracker>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2656283602" objID="2375577911">
+        <AbilityFireCracker memberName="AbilityReferenceList">
+          <Icon value="3618487814"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318081"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310644"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="317866"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310644"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316322"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316323"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408410"/>
+          <CooldownDuration value="45.0"/>
+          <Radius value="12.0"/>
+          <RadiusMaxIntensity value="6.0"/>
+          <Duration value="7.0"/>
+        </AbilityFireCracker>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2656283602" objID="2375577905">
+        <AbilityFireCracker memberName="AbilityReferenceList">
+          <Icon value="3618487814"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318082"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310647"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="317866"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310647"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316322"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316323"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408410"/>
+          <CooldownDuration value="35.0"/>
+          <Radius value="12.0"/>
+          <RadiusMaxIntensity value="6.0"/>
+          <Duration value="6.0"/>
+        </AbilityFireCracker>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="1285884845" objID="2364408414">
+        <AbilityMorph memberName="AbilityReferenceList">
+          <Icon value="3618487854"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="294851"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="307150"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316309"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316310"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <CooldownDuration value="60.0"/>
+          <MaxEntities value="4"/>
+          <Radius value="3.2"/>
+        </AbilityMorph>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="1285884845" objID="2375577802">
+        <AbilityMorph memberName="AbilityReferenceList">
+          <Icon value="3618487854"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318075"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310653"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310653"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316309"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316310"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408414"/>
+          <CooldownDuration value="60.0"/>
+          <MaxEntities value="6"/>
+          <Radius value="3.2"/>
+        </AbilityMorph>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="1285884845" objID="1472009175">
+        <AbilityMorph memberName="AbilityReferenceList">
+          <Icon value="3618487854"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318077"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310646"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="317866"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310646"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316309"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316310"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408414"/>
+          <CooldownDuration value="60.0"/>
+          <MaxEntities value="4"/>
+          <Radius value="4.5"/>
+        </AbilityMorph>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="1285884845" objID="2375577808">
+        <AbilityMorph memberName="AbilityReferenceList">
+          <Icon value="3618487854"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318076"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310647"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="317866"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310647"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316309"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316310"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408414"/>
+          <CooldownDuration value="50.0"/>
+          <MaxEntities value="4"/>
+          <Radius value="3.2"/>
+        </AbilityMorph>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="1648665360" objID="2364408432">
+        <AbilityThrowingKnives memberName="AbilityReferenceList">
+          <Icon value="3618487844"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="294860"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="307159"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316328"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316329"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <CooldownDuration value="60.0"/>
+          <Duration value="3.5"/>
+          <SpeedFactor value="0.9"/>
+        </AbilityThrowingKnives>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="1648665360" objID="2375577959">
+        <AbilityThrowingKnives memberName="AbilityReferenceList">
+          <Icon value="3618487844"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318078"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310644"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310644"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316328"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316329"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408432"/>
+          <CooldownDuration value="60.0"/>
+          <Duration value="5.0"/>
+          <SpeedFactor value="0.9"/>
+        </AbilityThrowingKnives>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="1648665360" objID="2375577965">
+        <AbilityThrowingKnives memberName="AbilityReferenceList">
+          <Icon value="3618487844"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318080"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="313532"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="317866"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="313532"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316328"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316329"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408432"/>
+          <CooldownDuration value="60.0"/>
+          <Duration value="3.5"/>
+          <SpeedFactor value="0.8"/>
+        </AbilityThrowingKnives>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="1648665360" objID="1472009187">
+        <AbilityThrowingKnives memberName="AbilityReferenceList">
+          <Icon value="3618487844"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318079"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310647"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="317866"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310647"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316328"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316329"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408432"/>
+          <CooldownDuration value="50.0"/>
+          <Duration value="3.5"/>
+          <SpeedFactor value="0.9"/>
+        </AbilityThrowingKnives>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="1683501714" objID="2894362835">
+        <AbilityTemplarVision memberName="AbilityReferenceList">
+          <Icon value="386389482"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="310543"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310544"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316330"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316331"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <CooldownDuration value="60.0"/>
+          <Duration value="3.5"/>
+          <DistanceLimit value="30.0"/>
+        </AbilityTemplarVision>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="1683501714" objID="3872167638">
+        <AbilityTemplarVision memberName="AbilityReferenceList">
+          <Icon value="386389482"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318074"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="313530"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310646"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316330"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316331"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2894362835"/>
+          <CooldownDuration value="60.0"/>
+          <Duration value="3.5"/>
+          <DistanceLimit value="40.0"/>
+        </AbilityTemplarVision>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="1683501714" objID="3872167644">
+        <AbilityTemplarVision memberName="AbilityReferenceList">
+          <Icon value="386389482"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318072"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310644"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="317866"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310644"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316330"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316331"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2894362835"/>
+          <CooldownDuration value="60.0"/>
+          <Duration value="5.0"/>
+          <DistanceLimit value="30.0"/>
+        </AbilityTemplarVision>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="1683501714" objID="3872167632">
+        <AbilityTemplarVision memberName="AbilityReferenceList">
+          <Icon value="386389482"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318073"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310647"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="317866"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310647"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316330"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316331"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2894362835"/>
+          <CooldownDuration value="50.0"/>
+          <Duration value="3.5"/>
+          <DistanceLimit value="30.0"/>
+        </AbilityTemplarVision>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="1537228796" objID="2364408419">
+        <AbilityPowerCharge memberName="AbilityReferenceList">
+          <Icon value="3618487774"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="294858"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="307157"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316328"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316327"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <CooldownDuration value="90.0"/>
+          <Duration value="2.5"/>
+          <CosMax value="0.82"/>
+          <Range value="2.5"/>
+          <OverBoost value="1.3"/>
+          <ControlCoef value="0.25"/>
+        </AbilityPowerCharge>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="1537228796" objID="2375577953">
+        <AbilityPowerCharge memberName="AbilityReferenceList">
+          <Icon value="3618487774"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318095"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310646"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310646"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316328"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316327"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408419"/>
+          <CooldownDuration value="90.0"/>
+          <Duration value="2.5"/>
+          <CosMax value="0.7"/>
+          <Range value="2.7"/>
+          <OverBoost value="1.3"/>
+          <ControlCoef value="0.25"/>
+        </AbilityPowerCharge>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="1537228796" objID="2375577947">
+        <AbilityPowerCharge memberName="AbilityReferenceList">
+          <Icon value="3618487774"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318093"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310644"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="317866"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310644"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316328"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316327"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408419"/>
+          <CooldownDuration value="90.0"/>
+          <Duration value="4.0"/>
+          <CosMax value="0.82"/>
+          <Range value="2.5"/>
+          <OverBoost value="1.3"/>
+          <ControlCoef value="0.25"/>
+        </AbilityPowerCharge>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="1537228796" objID="2375577941">
+        <AbilityPowerCharge memberName="AbilityReferenceList">
+          <Icon value="3618487774"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318094"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310647"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="317866"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310647"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316328"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316327"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408419"/>
+          <CooldownDuration value="80.0"/>
+          <Duration value="2.5"/>
+          <CosMax value="0.82"/>
+          <Range value="2.5"/>
+          <OverBoost value="1.3"/>
+          <ControlCoef value="0.25"/>
+        </AbilityPowerCharge>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2483449491" objID="2364408404">
+        <AbilityDecoy memberName="AbilityReferenceList">
+          <Icon value="3618487784"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="294854"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="307153"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316320"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316319"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <CooldownDuration value="45.0"/>
+          <Radius value="15.0"/>
+          <Duration value="10.0"/>
+          <DisguiseDelayMin value="-1.0"/>
+          <DisguiseDelayMax value="-1.0"/>
+        </AbilityDecoy>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2483449491" objID="2375577869">
+        <AbilityDecoy memberName="AbilityReferenceList">
+          <Icon value="3618487784"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318084"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310644"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310644"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316320"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316319"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408404"/>
+          <CooldownDuration value="45.0"/>
+          <Radius value="15.0"/>
+          <Duration value="15.0"/>
+          <DisguiseDelayMin value="-1.0"/>
+          <DisguiseDelayMax value="-1.0"/>
+        </AbilityDecoy>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2483449491" objID="2375577875">
+        <AbilityDecoy memberName="AbilityReferenceList">
+          <Icon value="3618487784"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318086"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="313537"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="317866"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="313537"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316320"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316319"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408404"/>
+          <CooldownDuration value="45.0"/>
+          <Radius value="15.0"/>
+          <Duration value="10.0"/>
+          <DisguiseDelayMin value="3.0"/>
+          <DisguiseDelayMax value="6.0"/>
+        </AbilityDecoy>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2483449491" objID="2375577863">
+        <AbilityDecoy memberName="AbilityReferenceList">
+          <Icon value="3618487784"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318085"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310647"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="317866"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310647"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316320"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316319"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408404"/>
+          <CooldownDuration value="35.0"/>
+          <Radius value="15.0"/>
+          <Duration value="10.0"/>
+          <DisguiseDelayMin value="-1.0"/>
+          <DisguiseDelayMax value="-1.0"/>
+        </AbilityDecoy>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="1739345932" objID="2364408423">
+        <AbilitySilent memberName="AbilityReferenceList">
+          <Icon value="3618487794"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="294855"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="307154"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316320"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316321"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <CooldownDuration value="90.0"/>
+          <Radius value="6.0"/>
+          <Duration value="1.5"/>
+        </AbilitySilent>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="1739345932" objID="2375577899">
+        <AbilitySilent memberName="AbilityReferenceList">
+          <Icon value="3618487794"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318092"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310646"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310646"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316320"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316321"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408423"/>
+          <CooldownDuration value="90.0"/>
+          <Radius value="7.0"/>
+          <Duration value="1.5"/>
+        </AbilitySilent>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="1739345932" objID="2375577893">
+        <AbilitySilent memberName="AbilityReferenceList">
+          <Icon value="3618487794"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318090"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310644"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="317866"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310644"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316320"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316321"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408423"/>
+          <CooldownDuration value="90.0"/>
+          <Radius value="6.0"/>
+          <Duration value="2.0"/>
+        </AbilitySilent>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="1739345932" objID="2375577887">
+        <AbilitySilent memberName="AbilityReferenceList">
+          <Icon value="3618487794"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318091"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310647"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="317866"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310647"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316320"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316321"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408423"/>
+          <CooldownDuration value="80.0"/>
+          <Radius value="6.0"/>
+          <Duration value="1.5"/>
+        </AbilitySilent>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2775855305" objID="2364408417">
+        <AbilityPoison memberName="AbilityReferenceList">
+          <Icon value="386389462"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="294857"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="307156"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316324"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316325"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <CooldownDuration value="90.0"/>
+          <Range value="1.5"/>
+          <Delay value="5.0"/>
+          <PoisonType value="0"/>
+          <Score value="200"/>
+        </AbilityPoison>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2775855305" objID="2375577935">
+        <AbilityPoison memberName="AbilityReferenceList">
+          <Icon value="386389462"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318087"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="313536"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="313536"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316324"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316325"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408417"/>
+          <CooldownDuration value="90.0"/>
+          <Range value="1.5"/>
+          <Delay value="3.5"/>
+          <PoisonType value="1"/>
+          <Score value="150"/>
+        </AbilityPoison>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2775855305" objID="2375577929">
+        <AbilityPoison memberName="AbilityReferenceList">
+          <Icon value="386389462"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318088"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="313529"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="317866"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="313529"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316324"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316325"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408417"/>
+          <CooldownDuration value="90.0"/>
+          <Range value="1.5"/>
+          <Delay value="6.5"/>
+          <PoisonType value="2"/>
+          <Score value="300"/>
+        </AbilityPoison>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2775855305" objID="2375577923">
+        <AbilityPoison memberName="AbilityReferenceList">
+          <Icon value="386389462"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="318089"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310647"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="317866"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="310647"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="316324"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="316325"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Handle propertyName="ExtendedAbility" objID="2364408417"/>
+          <CooldownDuration value="80.0"/>
+          <Range value="1.5"/>
+          <Delay value="5.0"/>
+          <PoisonType value="0"/>
+          <Score value="200"/>
+        </AbilityPoison>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="178291026" objID="2364408399">
+        <AbilityAutoBash memberName="AbilityReferenceList">
+          <Icon value="386389602"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="294868"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="307264"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <CountOfBash value="5"/>
+        </AbilityAutoBash>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2148010293" objID="3828100785">
+        <PassiveAbility memberName="AbilityReferenceList">
+          <Icon value="386389672"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="310548"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310549"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+        </PassiveAbility>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2954121833" objID="2282110128">
+        <AbilityResistance memberName="AbilityReferenceList">
+          <Icon value="386389652"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="294861"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="307261"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <DecreaseTime value="3.0"/>
+        </AbilityResistance>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="1893948057" objID="2364408400">
+        <PassiveAbility memberName="AbilityReferenceList">
+          <Icon value="386389612"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="294874"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="307266"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+        </PassiveAbility>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="216599309" objID="2282110127">
+        <AbilityEscapist memberName="AbilityReferenceList">
+          <Icon value="2183798182"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="316382"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="316383"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <TimeFactor value="0.75"/>
+        </AbilityEscapist>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="1317415225" objID="2364408402">
+        <AbilityChaseBoost memberName="AbilityReferenceList">
+          <Icon value="386394530"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="310550"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310551"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <SpeedFactor value="1.15"/>
+          <Duration value="0.0"/>
+        </AbilityChaseBoost>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="1369765026" objID="2074319356">
+        <AbilityOverallCooldown memberName="AbilityReferenceList">
+          <Icon value="386389642"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="294869"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="307265"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <Abatement value="10.0"/>
+        </AbilityOverallCooldown>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="1992712303" objID="2364408425">
+        <AbilitySilentHunt memberName="AbilityReferenceList">
+          <Icon value="386389632"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="294867"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="307263"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <SpeedFactor value="0.15"/>
+        </AbilitySilentHunt>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2648713513" objID="3828100792">
+        <AbilityKillScoreBonus memberName="AbilityReferenceList">
+          <Icon value="386389492"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="294937"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="308488"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <StreakValue value="3"/>
+          <UIString memberName="InGameShortDesc">
+            <OasisLineID value="310783"/>
+          </UIString>
+          <ExtraPoints value="100"/>
+        </AbilityKillScoreBonus>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2199213776" objID="3828100794">
+        <AbilityKillScoreBonus memberName="AbilityReferenceList">
+          <Icon value="386389502"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="310558"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310559"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <StreakValue value="3"/>
+          <UIString memberName="InGameShortDesc">
+            <OasisLineID value="313079"/>
+          </UIString>
+          <ExtraPoints value="300"/>
+        </AbilityKillScoreBonus>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2648713513" objID="3828100791">
+        <AbilityKillScoreBonus memberName="AbilityReferenceList">
+          <Icon value="386393906"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="294934"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="308487"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <StreakValue value="5"/>
+          <UIString memberName="InGameShortDesc">
+            <OasisLineID value="313082"/>
+          </UIString>
+          <ExtraPoints value="250"/>
+        </AbilityKillScoreBonus>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2199213776" objID="3828100793">
+        <AbilityKillScoreBonus memberName="AbilityReferenceList">
+          <Icon value="386393916"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="310568"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310569"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <StreakValue value="5"/>
+          <UIString memberName="InGameShortDesc">
+            <OasisLineID value="313083"/>
+          </UIString>
+          <ExtraPoints value="750"/>
+        </AbilityKillScoreBonus>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="3242456879" objID="1358546398">
+        <AbilityExtraSensitivity memberName="AbilityReferenceList">
+          <Icon value="386389512"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="310566"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310567"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <StreakValue value="3"/>
+          <UIString memberName="InGameShortDesc">
+            <OasisLineID value="310789"/>
+          </UIString>
+          <Abatement value="3.0"/>
+        </AbilityExtraSensitivity>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="810131707" objID="3359707200">
+        <AbilityResetCooldowns memberName="AbilityReferenceList">
+          <Icon value="386394237"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="315980"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="315981"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <StreakValue value="3"/>
+          <UIString memberName="InGameShortDesc">
+            <OasisLineID value="310789"/>
+          </UIString>
+          <factor value="1.0"/>
+          <forceResetToZero value="true"/>
+        </AbilityResetCooldowns>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="227929257" objID="2364408420">
+        <AbilityScoreX2 memberName="AbilityReferenceList">
+          <Icon value="386394520"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="294879"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="308485"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+          <StreakValue value="5"/>
+          <UIString memberName="InGameShortDesc">
+            <OasisLineID value="313086"/>
+          </UIString>
+          <ExtraFactor value="2"/>
+        </AbilityScoreX2>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="810131707" objID="3359707201">
+        <AbilityResetCooldowns memberName="AbilityReferenceList">
+          <Icon value="386394227"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="310562"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="310563"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="3"/>
+          <InitiallyHidden value="false"/>
+          <StreakValue value="5"/>
+          <UIString memberName="InGameShortDesc">
+            <OasisLineID value="313086"/>
+          </UIString>
+          <factor value="0.3"/>
+          <forceResetToZero value="false"/>
+        </AbilityResetCooldowns>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2314253727" objID="2364408468">
+        <Ability memberName="AbilityReferenceList">
+          <Icon value="386389542"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="313244"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+        </Ability>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2314253727" objID="2364408469">
+        <Ability memberName="AbilityReferenceList">
+          <Icon value="386389542"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="313245"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+        </Ability>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2314253727" objID="2364408470">
+        <Ability memberName="AbilityReferenceList">
+          <Icon value="386389542"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="313244"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+        </Ability>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2314253727" objID="2364408471">
+        <Ability memberName="AbilityReferenceList">
+          <Icon value="386389542"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="313245"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+        </Ability>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2314253727" objID="2364408472">
+        <Ability memberName="AbilityReferenceList">
+          <Icon value="386389542"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="313245"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+        </Ability>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2314253727" objID="2364408473">
+        <Ability memberName="AbilityReferenceList">
+          <Icon value="386389542"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="313244"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+        </Ability>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2001960302" objID="2375578155">
+        <Ability memberName="AbilityReferenceList">
+          <Icon value="386389542"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="309910"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+        </Ability>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2001960302" objID="2375578112">
+        <Ability memberName="AbilityReferenceList">
+          <Icon value="386389542"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="309911"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+        </Ability>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2001960302" objID="2375578113">
+        <Ability memberName="AbilityReferenceList">
+          <Icon value="386389542"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="309912"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+        </Ability>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2001960302" objID="2375578114">
+        <Ability memberName="AbilityReferenceList">
+          <Icon value="386389542"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="309913"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+        </Ability>
+      </Reference>
+      <Reference propertyName="AbilityReferenceList" classID="2001960302" objID="2375578115">
+        <Ability memberName="AbilityReferenceList">
+          <Icon value="386389542"/>
+          <UIString memberName="NameString">
+            <OasisLineID value="309914"/>
+          </UIString>
+          <UIString memberName="DescriptionString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="UnlockDescriptionString">
+            <OasisLineID value="318243"/>
+          </UIString>
+          <UIString memberName="EvolutionInfoString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ControlDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <UIString memberName="ParamDescString">
+            <OasisLineID value="-1"/>
+          </UIString>
+          <Index value="0"/>
+          <InitiallyHidden value="false"/>
+        </Ability>
+      </Reference>
+    </m_AbilityReferenceList>
+    <m_UnlockConditionAbilityList Array_Size="75">
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375578155"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="2"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2364408468"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="2"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2364408405"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="2"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2364408430"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="3"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2364408473"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="4"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="1358546398"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="4"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375578112"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="5"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2364408427"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="6"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2364408472"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="7"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="3828100792"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="7"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2364408411"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="8"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="3359707200"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="9"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2364408469"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="10"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375578113"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="15"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2894362835"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="19"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="3828100794"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="13"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2364408414"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="14"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375578114"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="25"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2364408410"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="11"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2364408420"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="17"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="3828100791"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="18"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2364408432"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="16"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2364408470"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="20"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2364408399"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="20"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375578115"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="31"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2364408419"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="21"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="3828100785"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="22"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2364408404"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="24"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2364408423"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="26"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2282110128"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="27"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="3359707201"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="28"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2364408417"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="29"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2364408471"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="30"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2364408400"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="30"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="3828100793"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="31"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577778"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="32"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2282110127"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="33"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="1472009199"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="34"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="1472009205"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="36"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577881"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="37"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2364408402"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="38"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="3872167638"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="44"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2074319356"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="40"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577802"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="41"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2364408425"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="42"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577917"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="39"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577959"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="43"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577953"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="46"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577869"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="47"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577899"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="48"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577935"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
+          <UnlockConditionLevel memberName="UnlockConditionRef">
+            <Level value="49"/>
+          </UnlockConditionLevel>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577893"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1475552278">
+          <UnlockConditionChallenge memberName="UnlockConditionRef">
+            <Handle propertyName="ChallengeRewardRef" objID="3374733064"/>
+            <Level value="2"/>
+          </UnlockConditionChallenge>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577929"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1475552278">
+          <UnlockConditionChallenge memberName="UnlockConditionRef">
+            <Handle propertyName="ChallengeRewardRef" objID="3374733066"/>
+            <Level value="2"/>
+          </UnlockConditionChallenge>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577790"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1475552278">
+          <UnlockConditionChallenge memberName="UnlockConditionRef">
+            <Handle propertyName="ChallengeRewardRef" objID="453255673"/>
+            <Level value="2"/>
+          </UnlockConditionChallenge>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577911"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1475552278">
+          <UnlockConditionChallenge memberName="UnlockConditionRef">
+            <Handle propertyName="ChallengeRewardRef" objID="3374733065"/>
+            <Level value="2"/>
+          </UnlockConditionChallenge>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577820"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1475552278">
+          <UnlockConditionChallenge memberName="UnlockConditionRef">
+            <Handle propertyName="ChallengeRewardRef" objID="453255675"/>
+            <Level value="2"/>
+          </UnlockConditionChallenge>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577875"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1475552278">
+          <UnlockConditionChallenge memberName="UnlockConditionRef">
+            <Handle propertyName="ChallengeRewardRef" objID="453255676"/>
+            <Level value="2"/>
+          </UnlockConditionChallenge>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577947"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1475552278">
+          <UnlockConditionChallenge memberName="UnlockConditionRef">
+            <Handle propertyName="ChallengeRewardRef" objID="453255678"/>
+            <Level value="2"/>
+          </UnlockConditionChallenge>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577965"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1475552278">
+          <UnlockConditionChallenge memberName="UnlockConditionRef">
+            <Handle propertyName="ChallengeRewardRef" objID="453255679"/>
+            <Level value="2"/>
+          </UnlockConditionChallenge>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577814"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1475552278">
+          <UnlockConditionChallenge memberName="UnlockConditionRef">
+            <Handle propertyName="ChallengeRewardRef" objID="2494276425"/>
+            <Level value="2"/>
+          </UnlockConditionChallenge>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="1472009175"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1475552278">
+          <UnlockConditionChallenge memberName="UnlockConditionRef">
+            <Handle propertyName="ChallengeRewardRef" objID="2494276316"/>
+            <Level value="2"/>
+          </UnlockConditionChallenge>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="3872167644"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1475552278">
+          <UnlockConditionChallenge memberName="UnlockConditionRef">
+            <Handle propertyName="ChallengeRewardRef" objID="2494276243"/>
+            <Level value="2"/>
+          </UnlockConditionChallenge>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577784"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1475552278">
+          <UnlockConditionChallenge memberName="UnlockConditionRef">
+            <Handle propertyName="ChallengeRewardRef" objID="2494276317"/>
+            <Level value="2"/>
+          </UnlockConditionChallenge>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577887"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1475552278">
+          <UnlockConditionChallenge memberName="UnlockConditionRef">
+            <Handle propertyName="ChallengeRewardRef" objID="2494276755"/>
+            <Level value="2"/>
+          </UnlockConditionChallenge>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577923"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1475552278">
+          <UnlockConditionChallenge memberName="UnlockConditionRef">
+            <Handle propertyName="ChallengeRewardRef" objID="2494276428"/>
+            <Level value="2"/>
+          </UnlockConditionChallenge>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577796"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1475552278">
+          <UnlockConditionChallenge memberName="UnlockConditionRef">
+            <Handle propertyName="ChallengeRewardRef" objID="2494276423"/>
+            <Level value="2"/>
+          </UnlockConditionChallenge>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577905"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1475552278">
+          <UnlockConditionChallenge memberName="UnlockConditionRef">
+            <Handle propertyName="ChallengeRewardRef" objID="2494276638"/>
+            <Level value="2"/>
+          </UnlockConditionChallenge>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577826"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1475552278">
+          <UnlockConditionChallenge memberName="UnlockConditionRef">
+            <Handle propertyName="ChallengeRewardRef" objID="2494276426"/>
+            <Level value="2"/>
+          </UnlockConditionChallenge>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577863"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1475552278">
+          <UnlockConditionChallenge memberName="UnlockConditionRef">
+            <Handle propertyName="ChallengeRewardRef" objID="2494276637"/>
+            <Level value="2"/>
+          </UnlockConditionChallenge>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577941"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1475552278">
+          <UnlockConditionChallenge memberName="UnlockConditionRef">
+            <Handle propertyName="ChallengeRewardRef" objID="2494276430"/>
+            <Level value="2"/>
+          </UnlockConditionChallenge>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="1472009193"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1475552278">
+          <UnlockConditionChallenge memberName="UnlockConditionRef">
+            <Handle propertyName="ChallengeRewardRef" objID="2494276424"/>
+            <Level value="2"/>
+          </UnlockConditionChallenge>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="2375577808"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1475552278">
+          <UnlockConditionChallenge memberName="UnlockConditionRef">
+            <Handle propertyName="ChallengeRewardRef" objID="2494276427"/>
+            <Level value="2"/>
+          </UnlockConditionChallenge>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="3872167632"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1475552278">
+          <UnlockConditionChallenge memberName="UnlockConditionRef">
+            <Handle propertyName="ChallengeRewardRef" objID="2494276757"/>
+            <Level value="2"/>
+          </UnlockConditionChallenge>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="1472009181"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1475552278">
+          <UnlockConditionChallenge memberName="UnlockConditionRef">
+            <Handle propertyName="ChallengeRewardRef" objID="2494276633"/>
+            <Level value="2"/>
+          </UnlockConditionChallenge>
+        </Pointer>
+      </AbilityUnlockCondition>
+      <AbilityUnlockCondition memberName="UnlockConditionAbilityList">
+        <Handle propertyName="AbilityRef" objID="1472009187"/>
+        <Pointer propertyName="UnlockConditionRef" classID="1475552278">
+          <UnlockConditionChallenge memberName="UnlockConditionRef">
+            <Handle propertyName="ChallengeRewardRef" objID="2494276431"/>
+            <Level value="2"/>
+          </UnlockConditionChallenge>
+        </Pointer>
+      </AbilityUnlockCondition>
+    </m_UnlockConditionAbilityList>
+    <m_AbilitySetList Array_Size="0"/>
+  </AbilityManagerMulti>
+</root>

@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<root>
+  <GamemodeParameters memberName="GamemodeParameters">
+    <GameModeEngineName value="advwanted"/>
+    <AllowDynamicCote value="false"/>
+    <DisableLOSInfo value="false"/>
+    <AutoTargetLTicon value="false"/>
+    <TargetLockFastMoveSpeed value="0.0"/>
+    <Dist_kill_run value="2.0"/>
+    <Dist_kill_droptech value="7.0"/>
+    <CatchupSpawnDistanceFromOthers value="20.0"/>
+    <CatchupSpawnDistanceFromNoContracts value="30.0"/>
+    <CatchupSpawnDistanceMax value="40.0"/>
+    <CatchupSpawnDistanceMin value="40.0"/>
+    <CatchupSpawnLastMinuteDistanceRatio value="0.5"/>
+    <FixedSpawnDistanceMin value="40.0"/>
+    <FixedSpawnDistanceMax value="40.0"/>
+    <ThreatmeterFastSpeed value="2.5"/>
+    <ThreatmeterNeutralSpeed value="-0.05"/>
+    <ThreatmeterHiddenSpeed value="-0.066"/>
+    <ThreatmeterFastSpeedOOS value="-0.02475"/>
+    <ThreatmeterNeutralSpeedOOS value="-0.05775"/>
+    <ThreatmeterHiddenSpeedOOS value="-0.0825"/>
+    <ThreatmeterInAirFastSpeed value="0.975"/>
+    <ThreatmeterInAirSlowSpeed value="0.375"/>
+    <ThreatmeterInAirFastSpeedOOS value="-0.033"/>
+    <ThreatmeterInAirSlowSpeedOOS value="-0.04125"/>
+    <ThreatmeterFarSpeed value="-0.25"/>
+    <ScalePlayerFastMoveThreshold value="1.0"/>
+    <ThreatCloseDistance value="10.0"/>
+    <ThreatFarDistance value="35.0"/>
+    <ThreatDistanceDowning value="8.0"/>
+    <ThreatLowSpeed value="2.0"/>
+    <ThreatHighSpeed value="4.0"/>
+    <ThreatToTargetFrontAngle value="45.569999"/>
+    <ThreatToTargetBackAngle value="154.160003"/>
+    <ThreatToTargetDowning value="5.0"/>
+    <ThreatBehindTargetFrontAngle value="25.84"/>
+    <ThreatBehindTargetBackAngle value="134.429992"/>
+    <ThreatBehindTargetDowning value="2.0"/>
+  </GamemodeParameters>
+</root>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<GameMode Name="ASSASSINATE" EngineName="free" idGameMode="6" SessionType="0" MinPlayers="2" MaxPlayers="8" TopPlayers="8" IdMetaSession="-1" IsTeamMode="false" CanJoinInGame="true">
+  <GBrick_Timer Start="GameStateStarted" Stop="" Show="InGame" Hide="GameStateEnded" OnFinished="TimerEnded" GameDuration="600"/>
+  <GBrick_Respawn Start="SessionReady" OnFinished="SpawnedInWhiteRoom" RespawnTime="0" RandomSkin="false" SpawnInWhiteRoom="true"/>
+  <GBrick_Respawn Start="AbilitySelectionRequestRespawn" OnFinished="RespawnRestart" RespawnTime="0" SpawnPointType="0" SpawnPointRule="5" RandomSkin="false" SpawnInWhiteRoom="false"/>
+  <GBrick_Respawn Start="CanSpawnInMap" OnFinished="FirstSpawnInMap" RespawnTime="0" RandomSkin="false" SpawnInWhiteRoom="false"/>
+  <GBrick_Respawn Start="InGame" RespawnTime="0" SpawnPointType="0" SpawnPointRule="1" RandomSkin="false" SpawnInWhiteRoom="false"/>
+  <GBrick_AbilitySetSelection Start="LocalPlayerEndOfDeath" OnFinished="AbilitySelectionRequestRespawn" MinTime="5" MaxTime="10"/>
+  <GBrick_ScoreKill IsTeamScore="false" UseCote="false" MetaScore="0"/>
+  <GBrick_ScoreChase IsTeamScore="false" MetaScore="0"/>
+  <GBrick_ScoreCommon IsTeamScore="false" MetaScore="0"/>
+  <GBrick_ScoreSession BonusKillsAverage="300" BonusPodium="200" BonusSurvivor="400" BonusUntouchable="500" AllowedDelay="60"/>
+  <GBrick_TargetFeedback Start="InGame" Stop="GameStateEnded" AltitudeDifference="3.5f" ArrowDistance="30.0f" HUDTextDistance="7000.0f" UpDownDistance="30.0f" NoFXDistance="0.0f" WorldIsBlind="true" TimeToLessArrows="1.0f" TimeToMoreArrows="1.0f" ContinuousMovement="true" ArrowFadeInTime="0.3f" ArrowFadeOutTime="0.3f" ArrowOpacity="1.0f" ArrowSize="1.0f" BeeLeashLength="0.5f" ShowFX="false" ShowRadarFX="true" ShowArrow="false" ShowArrowOffscreen="false" HideFXifArrow="true" AssassinFeedbackHasPriority="false" UseLastKnownPos="false" DistanceToRecoverPosition="7.5f" DistanceToEnableLastKnownPos="12.0f" ShowDistanceToPlayerWhenFar="true" TargetAcquisitionCD="0.0f" ShowTargetPickupTime="3.0f" BackToNormalTime="3.0f" TargetAcquisitionCDEndST="0.3f" DecoyRunTime="12.0f" DisplayDebug="false"/>
+  <GBrick_AssassinFeedback ShowChaser="true" ShowFX="true" ShowArrow="true" ShowArrowOffscreen="false" HideFXifArrow="false" TargetFeedbackHasPriority="false" DisplayDebug="false"/>
+  <GBrick_EndGameScores Start="RankingSent" Stop="MenuRestart" OnFinished="ScoresSent" OnRestart="Restart" MaxTime="25"/>
+  <GBrick_MidGameScores Start="InGame" Stop="" OnFinished=""/>
+  <GBrick_SendRanking Start="GameStateEndedDelayed" OnFinished="RankingSent"/>
+  <GBrick_GetRanking Start="InGame"/>
+  <GBrick_TargetInfo Start="InGame" Stop="GameStateEnded" ClassIconMasked="false" DisplayContractOnMe="true" DisplayRanking="false" EnableHiding="false"/>
+  <GBrick_PlayerInfo Start="InGame" Stop="GameStateEnded" DisplayContractOnMe="true" DisplayRanking="true"/>
+  <GBrick_PlayerListExtended Start="SkinSelectionStarted" Stop="GameStateEnded"/>
+  <GBrick_SkinSelection Start="SpawnedInWhiteRoom,Restart,Menu_BackFromAbilitySelection" OnStarted="SkinSelectionStarted" OnFinished="GoToAbilitySelection" MaxPlayersWithSameSkin="1" MaxNumberOfSkins="0" AllowedWhenEnded="false" TimeOut="10"/>
+  <GBrick_AbilitySetSelection Start="GoToAbilitySelection,Menu_BackFromWaitingForPlayers" OnStarted="AbilitySelectionStarted" OnFinished="AbilitySelected" MinTime="3" MaxTime="10"/>
+  <GBrick_CheckNumberOfPlayers Start="PlayerRemoved" OnFinished="NoMoreEnoughPlayers" PlayersThreshold="4"/>
+  <GBrick_AbilityManager Start="InGame,RespawnRestart" Stop="GameStateEnded,KillEvent_LocalPlayerSuicided,KillEvent_OtherPlayerKilledLocalPlayer" CoolDownTimer="30" SlotOne="8" SlotTwo="13" SlotThree="3"/>
+  <GBrick_Controls Start="InGame" Stop="GameStateEnded"/>
+  <GBrick_MessageLog DebugDisplay="1" TimeBeforeFadeOut="3" TimeFadeOut="3"/>
+  <GBrick_PlayerReady SetSkinSelection="SkinSelectionStarted" OnSkinSelection="" SetAbilitySelection="AbilitySelectionStarted" OnAbilitySelection="" SetReady="AbilitySelected" OnReady="PlayerReady" SetInGame="PlayerCanGoInGame" OnInGame="InGame" SetEndGame="GameStateEnded" OnEndGame=""/>
+  <GBrick_GameStarter Start="GameModeInitialized,GameStateWaiting" Cancel="GameStateStarted" OnFinished="ModeCanStart" NeedsMinPlayersReady="true"/>
+  <GBrick_LogicAndOnEvent Start="GameStateStarted,PlayerReady" OnFinished="PlayerCanGoInGame" nbStartEvent="2"/>
+  <GBrick_GameState SetWaiting="ScoresSent" SetStarted="ModeCanStart" SetEnded="TimerEnded,NoMoreEnoughPlayers" OnWaiting="GameStateWaiting" OnStarted="GameStateStarted" OnEnded="GameStateEnded"/>
+  <GBrick_AttackFeedback DisplayDebug="false"/>
+  <GBrick_Escape StartChaseAtFullThreat="true" StartChaseOnNPCKill="false" FailChaseOnNPCKill="true" NPCKillMattersDistance="1000.0f" TimeToEscapeInSightNotHidden="0.0f" TimeToEscapeInSightHidden="0.0f" TimeToEscapeOutOfSightNotHidden="12.0f" TimeToEscapeOutOfSightHidden="7.0f" AllowStartChaseWhenChased="true" StayBlueUntilUnblend="true" ScoreOnHumiliation="true" BreakContractOnHumiliation="true" tempStatusText="false" DisplayDebug="false"/>
+  <GBrick_MapInfo Start="GameStateEnded" Stop="RankingSent" Title="YOU HAVE PLAYED"/>
+  <GBrick_MapInfo Start="FirstSpawnInMap,Restart" Stop="InGame" Title="YOU WILL PLAY"/>
+  <GBrick_BlockPlayer Start="GameModeInitialized,GameStateEnded,LocalPlayerEndOfDeath,Menu_BackFromWaitingForPlayers" Stop="PlayerReady,AbilitySelectionRequestRespawn,InGame"/>
+  <GBrick_LoseContractFeedback Start="InGame" Stop="GameStateEnded" ArrowFarScale="0.6f" ArrowCloseScale="1.0f" ArrowFarDistance="20.0f" ArrowCloseDistance="3.0f" ShowWhenKilledNPC="true"/>
+  <GBrick_HudFeedback Start="InGame" Stop="GameStateEnded"/>
+  <GBrick_ExtendedHud Start="InGame" Stop="GameStateEnded"/>
+  <GBrick_Delay Start="GameStateEnded" OnFinished="GameStateEndedDelayed" DelayDuration="2.f"/>
+  <GBrick_Matchmaking Start="GameModeInitialized" OnFinished="SessionReady" TimeBeforeMergingSession="30" BaseTimeBetweenSearch="20" PlayerDelayBetweenSearch="10"/>
+  <GBrick_LogicAndOnEvent Start="SessionReady,EndOfLoading" OnFinished="CanSpawnInMap" nbStartEvent="2"/>
+  <GBrick_VoiceChatRules FullVoiceChat="GameModeInitialized,GameStateWaiting,GameStateStarted,GameStateEnded"/>
+  <GBrick_InteractionManager CanSelectTarget="true" CanKill_NPC="false"/>
+  <GBrick_LockTargetSelection Start="KillEvent,PlayerRemoved,EndOfEscape,EnginePlayerReady" Stop="GameStateWaiting"/>
+</GameMode>

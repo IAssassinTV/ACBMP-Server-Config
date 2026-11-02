@@ -1,0 +1,257 @@
+<?xml version="1.0"?>
+<root>
+  <LevelXPManager memberName="LevelXPManager">
+    <m_Elements Array_Size="50">
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="0"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="1550"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="3250"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="5200"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="7500"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="10200"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="13450"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="17300"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="21800"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="27050"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="33300"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="40700"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="49250"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="59050"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="69550"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="80050"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="91050"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="102050"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="113500"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="125050"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="137000"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="149400"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="161000"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="173550"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="186050"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="198500"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="211550"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="224600"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="238000"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="251550"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="265550"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="279600"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="294000"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="308550"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="323400"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="338600"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="353550"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="369500"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="386450"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="404600"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="423550"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="443600"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="464700"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="486750"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="510000"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="533600"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="558950"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="586200"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="615750"/>
+        </XPElement>
+      </Pointer>
+      <Pointer propertyName="Elements" classID="1765063901">
+        <XPElement memberName="Elements">
+          <XP value="650000"/>
+        </XPElement>
+      </Pointer>
+    </m_Elements>
+  </LevelXPManager>
+</root>
