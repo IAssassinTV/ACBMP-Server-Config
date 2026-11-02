@@ -22,7 +22,7 @@
         <Handle propertyName="UnlockableRef" objID="395991265"/>
         <Pointer propertyName="UnlockConditionRef" classID="1688405200">
           <UnlockConditionLevel memberName="UnlockConditionRef">
-            <Level value="5"/>
+            <Level value="1"/>
           </UnlockConditionLevel>
         </Pointer>
       </UnlockableUnlockCondition>
@@ -30,7 +30,7 @@
         <Handle propertyName="UnlockableRef" objID="3958150735"/>
         <Pointer propertyName="UnlockConditionRef" classID="1688405200">
           <UnlockConditionLevel memberName="UnlockConditionRef">
-            <Level value="12"/>
+            <Level value="1"/>
           </UnlockConditionLevel>
         </Pointer>
       </UnlockableUnlockCondition>
@@ -44,7 +44,7 @@
       </UnlockableUnlockCondition>
       <UnlockableUnlockCondition memberName="UnlockConditionList">
         <Handle propertyName="UnlockableRef" objID="3958150743"/>
-        <Pointer propertyName="UnlockConditionRef" classID="38051144">
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
           <UnlockConditionDLC memberName="UnlockConditionRef">
             <Code value="1"/>
           </UnlockConditionDLC>
@@ -52,7 +52,7 @@
       </UnlockableUnlockCondition>
       <UnlockableUnlockCondition memberName="UnlockConditionList">
         <Handle propertyName="UnlockableRef" objID="3958150751"/>
-        <Pointer propertyName="UnlockConditionRef" classID="38051144">
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
           <UnlockConditionDLC memberName="UnlockConditionRef">
             <Code value="2"/>
           </UnlockConditionDLC>
@@ -60,7 +60,7 @@
       </UnlockableUnlockCondition>
       <UnlockableUnlockCondition memberName="UnlockConditionList">
         <Handle propertyName="UnlockableRef" objID="3958151817"/>
-        <Pointer propertyName="UnlockConditionRef" classID="38051144">
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
           <UnlockConditionDLC memberName="UnlockConditionRef">
             <Code value="4"/>
           </UnlockConditionDLC>
@@ -68,7 +68,7 @@
       </UnlockableUnlockCondition>
       <UnlockableUnlockCondition memberName="UnlockConditionList">
         <Handle propertyName="UnlockableRef" objID="3958151825"/>
-        <Pointer propertyName="UnlockConditionRef" classID="38051144">
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
           <UnlockConditionDLC memberName="UnlockConditionRef">
             <Code value="4"/>
           </UnlockConditionDLC>
@@ -154,7 +154,7 @@
           <Index value="0"/>
           <InitiallyHidden value="false"/>
           <GameModeName value="catsmice"/>
-          <PlayNowMinimumLevel value="3"/>
+          <PlayNowMinimumLevel value="1"/>
         </UnlockableGameMode>
       </Reference>
       <Reference propertyName="ReferenceList" classID="799033962" objID="395991265">
@@ -181,7 +181,7 @@
           <Index value="0"/>
           <InitiallyHidden value="false"/>
           <GameModeName value="teamwanted"/>
-          <PlayNowMinimumLevel value="5"/>
+          <PlayNowMinimumLevel value="1"/>
         </UnlockableGameMode>
       </Reference>
       <Reference propertyName="ReferenceList" classID="799033962" objID="3958150735">
@@ -208,7 +208,7 @@
           <Index value="0"/>
           <InitiallyHidden value="false"/>
           <GameModeName value="advwanted"/>
-          <PlayNowMinimumLevel value="12"/>
+          <PlayNowMinimumLevel value="1"/>
         </UnlockableGameMode>
       </Reference>
       <Reference propertyName="ReferenceList" classID="799033962" objID="3958150743">
@@ -235,7 +235,7 @@
           <Index value="0"/>
           <InitiallyHidden value="true"/>
           <GameModeName value="advteamwanted"/>
-          <PlayNowMinimumLevel value="19"/>
+          <PlayNowMinimumLevel value="1"/>
         </UnlockableGameMode>
       </Reference>
       <Reference propertyName="ReferenceList" classID="799033962" objID="3958150751">
@@ -262,7 +262,7 @@
           <Index value="0"/>
           <InitiallyHidden value="true"/>
           <GameModeName value="pacman"/>
-          <PlayNowMinimumLevel value="5"/>
+          <PlayNowMinimumLevel value="1"/>
         </UnlockableGameMode>
       </Reference>
       <Reference propertyName="ReferenceList" classID="799033962" objID="3958151817">
@@ -289,7 +289,7 @@
           <Index value="0"/>
           <InitiallyHidden value="true"/>
           <GameModeName value="teamvip"/>
-          <PlayNowMinimumLevel value="5"/>
+          <PlayNowMinimumLevel value="1"/>
         </UnlockableGameMode>
       </Reference>
       <Reference propertyName="ReferenceList" classID="799033962" objID="3958151825">
@@ -316,7 +316,7 @@
           <Index value="0"/>
           <InitiallyHidden value="true"/>
           <GameModeName value="assassinate"/>
-          <PlayNowMinimumLevel value="5"/>
+          <PlayNowMinimumLevel value="1"/>
         </UnlockableGameMode>
       </Reference>
     </m_ReferenceList>
