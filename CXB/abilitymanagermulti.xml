@@ -1634,7 +1634,7 @@
           </UIString>
           <Index value="0"/>
           <InitiallyHidden value="false"/>
-          <SpeedFactor value="0.15"/>
+          <SpeedFactor value="0.25"/>
         </AbilitySilentHunt>
       </Reference>
       <Reference propertyName="AbilityReferenceList" classID="2648713513" objID="3828100792">
