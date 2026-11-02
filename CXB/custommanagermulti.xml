@@ -4,7 +4,7 @@
     <m_UnlockConditionList Array_Size="29">
       <UnlockableUnlockCondition memberName="UnlockConditionList">
         <Handle propertyName="UnlockableRef" objID="1465208271"/>
-        <Pointer propertyName="UnlockConditionRef" classID="3601268473">
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
           <UnlockConditionUPlay memberName="UnlockConditionRef">
             <Code value="unlockHARLEQUIN"/>
           </UnlockConditionUPlay>
@@ -12,7 +12,7 @@
       </UnlockableUnlockCondition>
       <UnlockableUnlockCondition memberName="UnlockConditionList">
         <Handle propertyName="UnlockableRef" objID="1465208287"/>
-        <Pointer propertyName="UnlockConditionRef" classID="3601268473">
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
           <UnlockConditionUPlay memberName="UnlockConditionRef">
             <Code value="unlockOFFICER"/>
           </UnlockConditionUPlay>
@@ -20,7 +20,7 @@
       </UnlockableUnlockCondition>
       <UnlockableUnlockCondition memberName="UnlockConditionList">
         <Handle propertyName="UnlockableRef" objID="1465208282"/>
-        <Pointer propertyName="UnlockConditionRef" classID="3601268473">
+        <Pointer propertyName="UnlockConditionRef" classID="1688405200">
           <UnlockConditionUPlay memberName="UnlockConditionRef">
             <Code value="unlockHELLEQUIN"/>
           </UnlockConditionUPlay>
