@@ -21,7 +21,7 @@
   <GBrick_PlayerListExtended Start="SkinSelectionStarted" Stop="GameStateEnded"/>
   <GBrick_SkinSelection Start="SpawnedInWhiteRoom,Restart,Menu_BackFromAbilitySelection" OnStarted="SkinSelectionStarted" OnFinished="GoToAbilitySelection" MaxPlayersWithSameSkin="1" MaxNumberOfSkins="0" AllowedWhenEnded="false" TimeOut="10"/>
   <GBrick_AbilitySetSelection Start="GoToAbilitySelection,Menu_BackFromWaitingForPlayers" OnStarted="AbilitySelectionStarted" OnFinished="AbilitySelected" MinTime="3" MaxTime="10"/>
-  <GBrick_CheckNumberOfPlayers Start="PlayerRemoved" OnFinished="NoMoreEnoughPlayers" PlayersThreshold="4"/>
+  <GBrick_CheckNumberOfPlayers Start="PlayerRemoved" OnFinished="NoMoreEnoughPlayers" PlayersThreshold="2"/>
   <GBrick_AbilityManager Start="InGame,RespawnRestart" Stop="GameStateEnded,KillEvent_LocalPlayerSuicided,KillEvent_OtherPlayerKilledLocalPlayer" CoolDownTimer="30" SlotOne="8" SlotTwo="13" SlotThree="3"/>
   <GBrick_Controls Start="InGame" Stop="GameStateEnded"/>
   <GBrick_MessageLog DebugDisplay="1" TimeBeforeFadeOut="3" TimeFadeOut="3"/>

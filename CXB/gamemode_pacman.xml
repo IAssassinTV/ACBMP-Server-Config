@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<GameMode Name="CHESTCAPTURE" EngineName="pacman" idGameMode="2" SessionType="0" MinPlayers="6" MaxPlayers="8" TopPlayers="8" IdMetaSession="-1" IsTeamMode="true" CanJoinInGame="true" CanJoinWithGroup="true" JoinMaxGroupSize="4" PrivateMinPlayers="2" TemplarGrade="Team" SearchExpirationTime="10.0f" MaxSessionToTry="5" normalBlacklistedSessionTime="40" SearchStrategy="1">
+<GameMode Name="CHESTCAPTURE" EngineName="pacman" idGameMode="2" SessionType="0" MinPlayers="2" MaxPlayers="8" TopPlayers="8" IdMetaSession="-1" IsTeamMode="true" CanJoinInGame="true" CanJoinWithGroup="true" JoinMaxGroupSize="4" PrivateMinPlayers="2" TemplarGrade="Team" SearchExpirationTime="10.0f" MaxSessionToTry="5" normalBlacklistedSessionTime="40" SearchStrategy="1">
   <GBrick_Timer Start="StartRound" Cancel="NoMoreEnoughPlayers" Show="InGame,StartRound" Hide="GameStateEnded,StartInterround" OnFinished="TimerEnded" GameDuration="300" Play1mnVoice="false" Play30sVoice="true"/>
   <GBrick_Respawn Start="CanSpawnInWhiteRoom" OnFinished="SpawnedInWhiteRoom" RespawnTime="0" RandomSkin="false" SpawnInWhiteRoom="true"/>
   <GBrick_Respawn Start="AbilitySelectionRequestRespawn" OnFinished="RespawnRestart" RespawnTime="0" SpawnPointType="0" SpawnPointRule="10" RandomSkin="false" SpawnInWhiteRoom="false"/>
@@ -59,7 +59,7 @@
   <GBrick_SelectTeams Start="ServerNewTeamChoosen,ServerTeamCanceled" OnFinished="SelectTeamsFinished"/>
   <GBrick_Delay Start="ScoresSent" OnFinished="ScoresSentDelayed" DelayDuration="2.f"/>
   <GBrick_DestroyTeams Start="ScoresSentDelayed"/>
-  <GBrick_Matchmaking Start="GameModeInitialized" OnFinished="SessionReady" TimeBeforeMergingSession="20" BaseTimeBetweenSearch="10" PlayerDelayBetweenSearch="1" ResetTimerOnJoin="false" BaseTimeAddedOnJoin="2" AddPlayerDelayOnJoin="true" RandomMaxTime="5" WaitForSkinsToLoadMap="true" UseMatchMakingNatFilter="true" UseHUDCounterBehaviour="true"/>
+  <GBrick_Matchmaking Start="GameModeInitialized" OnFinished="SessionReady" TimeBeforeMergingSession="20" BaseTimeBetweenSearch="10" PlayerDelayBetweenSearch="1" ResetTimerOnJoin="false" BaseTimeAddedOnJoin="2" AddPlayerDelayOnJoin="true" RandomMaxTime="5" WaitForSkinsToLoadMap="true" UseMatchMakingNatFilter="false" UseHUDCounterBehaviour="true"/>
   <GBrick_BloodBath Start="InGame" Stop="GameStateEnded"/>
   <GBrick_PickupFeedback Start="StartRoundFadeDone" Stop="GameStateEnded,StartInterround" nbPickupsTracked="3" TrackWhenHasTarget="false" SharedForceShow="true" ForceShowWhenHorCloserThan="18.0f" UnForceShowWhenHorFurtherserThan="20.0f" ArrowFarScale="0.5f" ArrowCloseScale="1.0f" ArrowFarDistance="60.0f" ArrowCloseDistance="15.0f"/>
   <GBrick_SetAttackingTeamLoop Start="StartInterround"/>

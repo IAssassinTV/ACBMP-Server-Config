@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<GameMode Name="WANTED" EngineName="wanted_2" idGameMode="4" SessionType="0" MinPlayers="6" MaxPlayers="8" TopPlayers="8" IdMetaSession="-1" IsTeamMode="false" CanJoinInGame="true" CanJoinWithGroup="false" PrivateMinPlayers="4" TemplarGrade="Free" SearchExpirationTime="10.0f" MaxSessionToTry="5" normalBlacklistedSessionTime="40" SearchStrategy="1">
+<GameMode Name="WANTED" EngineName="wanted_2" idGameMode="4" SessionType="0" MinPlayers="4" MaxPlayers="8" TopPlayers="8" IdMetaSession="-1" IsTeamMode="false" CanJoinInGame="true" CanJoinWithGroup="false" PrivateMinPlayers="3" TemplarGrade="Free" SearchExpirationTime="10.0f" MaxSessionToTry="5" normalBlacklistedSessionTime="40" SearchStrategy="1">
   <GBrick_Timer Start="GameStateStarted" Cancel="NoMoreEnoughPlayers" Show="InGame" Hide="GameStateEnded" OnFinished="TimerEnded" GameDuration="600" Play30sVoice="true"/>
   <GBrick_Respawn Start="CanSpawnInWhiteRoom" OnFinished="SpawnedInWhiteRoom" RespawnTime="0" RandomSkin="false" SpawnInWhiteRoom="true"/>
   <GBrick_Respawn Start="AbilitySelectionRequestRespawn" OnFinished="RespawnRestart" RespawnTime="0" SpawnPointType="0" SpawnPointRule="5" RandomSkin="false" SpawnInWhiteRoom="false"/>
@@ -12,7 +12,7 @@
   <GBrick_TargetFeedback Start="InGame" Stop="GameStateEnded" AltitudeDifference="3.75f" ArrowDistance="30.0f" HUDTextDistance="7000.0f" UpDownDistance="30.0f" NoFXDistance="0.0f" WorldIsBlind="true" TimeToLessArrows="1.0f" TimeToMoreArrows="1.0f" ContinuousMovement="true" ArrowFadeInTime="0.3f" ArrowFadeOutTime="0.3f" ArrowOpacity="1.0f" ArrowSize="1.0f" BeeLeashLength="0.5f" ShowFX="false" ShowRadarFX="true" ShowArrow="false" ShowArrowOffscreen="false" HideFXifArrow="true" AssassinFeedbackHasPriority="false" UseLastKnownPos="false" DistanceToRecoverPosition="7.5f" DistanceToEnableLastKnownPos="12.0f" ShowDistanceToPlayerWhenFar="true" TargetAcquisitionCD="0.0f" ShowTargetPickupTime="3.0f" BackToNormalTime="3.0f" TargetAcquisitionCDEndST="0.3f" DecoyRunTime="12.0f" DisplayDebug="false" AcquireTargetDistanceVeryLow="7.0f" AcquireTargetDistanceLow="7.0f" AcquireTargetDistanceNormal="7.0f" AcquireTargetDistanceHigh="7.0f"/>
   <GBrick_AssassinFeedback Start="InGame" Stop="GameStateEnded" ShowChaser="true" ShowFX="true" ShowArrow="true" ShowArrowOffscreen="false" HideFXifArrow="false" TargetFeedbackHasPriority="false" DisplayDebug="false" ShowThreateningArrow="true" ShowThreateningThroughWalls="false" ThreateningOutTime="3.0f"/>
   <GBrick_PoisonFeedback Start="InGame" Stop="GameStateEnded" DisplayDebug="false"/>
-  <GBrick_LessFrustratingTarget Start="KillEvent,PlayerRemoved,EndOfEscape,EnginePlayerReady" Stop="GameStateEnded" ChangeTargetOnNPCKill="true" RuleRandomTargeting="false" RuleVariableLevels="true" RuleCantTargetLoser="true" RuleRevenge="false" RuleTargetInheritance="false" RuleLowestLevelsFirst="true" RuleLeveledWinnerAlwaysTargeted="true" RuleLoserGetsLevel1Target="true" RuleForceDifferentTarget="true" RuleExcludeEvenIfNoOtherCandidate="true" RuleUsePriorities="true" NumberOfLevels="3" DecreasePrioStartTime="5.0f" MinWaitTime="8.f" MaxWaitTime="15.0f" MinDistance="20.0f"/>
+  <GBrick_LessFrustratingTarget Start="KillEvent,PlayerRemoved,EndOfEscape,EnginePlayerReady" Stop="GameStateEnded" ChangeTargetOnNPCKill="true" RuleRandomTargeting="false" RuleVariableLevels="true" RuleCantTargetLoser="true" RuleRevenge="false" RuleTargetInheritance="false" RuleLowestLevelsFirst="true" RuleLeveledWinnerAlwaysTargeted="false" RuleLoserGetsLevel1Target="true" RuleForceDifferentTarget="true" RuleExcludeEvenIfNoOtherCandidate="true" RuleUsePriorities="false" NumberOfLevels="3" DecreasePrioStartTime="5.0f" MinWaitTime="8.f" MaxWaitTime="15.0f" MinDistance="20.0f"/>
   <GBrick_EndGameScores Start="RankingSent" Stop="MenuRestart" OnFinished="ScoresSent" OnRestart="Restart" MaxTime="45"/>
   <GBrick_MidGameScores Start="InGame,SendScoreForMenu"/>
   <GBrick_MidGameScoresNotifier Start="SpawnedInWhiteRoom,Restart" Stop="GameStateEnded" OnRestart="SendScoreForMenu"/>
@@ -47,7 +47,7 @@
   <GBrick_HudFeedback Start="InGame" Stop="GameStateEnded"/>
   <GBrick_ExtendedHud Start="InGame" Stop="GameStateEnded"/>
   <GBrick_Delay Start="GameStateEnded" OnFinished="GameStateEndedDelayed" DelayDuration="2.f"/>
-  <GBrick_Matchmaking Start="GameModeInitialized" OnFinished="SessionReady" TimeBeforeMergingSession="20" BaseTimeBetweenSearch="10" PlayerDelayBetweenSearch="1" ResetTimerOnJoin="false" BaseTimeAddedOnJoin="2" AddPlayerDelayOnJoin="true" RandomMaxTime="5" WaitForSkinsToLoadMap="true" UseMatchMakingNatFilter="true" UseHUDCounterBehaviour="true">
+  <GBrick_Matchmaking Start="GameModeInitialized" OnFinished="SessionReady" TimeBeforeMergingSession="20" BaseTimeBetweenSearch="10" PlayerDelayBetweenSearch="1" ResetTimerOnJoin="false" BaseTimeAddedOnJoin="2" AddPlayerDelayOnJoin="true" RandomMaxTime="5" WaitForSkinsToLoadMap="true" UseMatchMakingNatFilter="false" UseHUDCounterBehaviour="true">
     <SearchParams>
       <step>
         <Language value="false"/>
@@ -55,7 +55,7 @@
         <Level value="true"/>
         <LevelRangeMinus value="0"/>
         <LevelRangePlus value="0"/>
-        <UseNat value="true"/>
+        <UseNat value="false"/>
       </step>
       <step>
         <Language value="false"/>
@@ -63,19 +63,19 @@
         <Level value="true"/>
         <LevelRangeMinus value="-1"/>
         <LevelRangePlus value="+1"/>
-        <UseNat value="true"/>
+        <UseNat value="false"/>
       </step>
       <step>
         <Language value="false"/>
         <Region value="false"/>
         <Level value="false"/>
-        <UseNat value="true"/>
+        <UseNat value="false"/>
       </step>
       <step>
         <Language value="false"/>
         <Region value="false"/>
         <Level value="false"/>
-        <UseNat value="true"/>
+        <UseNat value="false"/>
       </step>
     </SearchParams>
     <TriExclusion>
