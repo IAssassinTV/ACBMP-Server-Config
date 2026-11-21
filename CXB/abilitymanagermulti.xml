@@ -2744,7 +2744,7 @@
         <Pointer propertyName="UnlockConditionRef" classID="1475552278">
           <UnlockConditionChallenge memberName="UnlockConditionRef">
             <Handle propertyName="ChallengeRewardRef" objID="3374733064"/>
-            <Level value="2"/>
+            <Level value="0"/>
           </UnlockConditionChallenge>
         </Pointer>
       </AbilityUnlockCondition>
@@ -2753,7 +2753,7 @@
         <Pointer propertyName="UnlockConditionRef" classID="1475552278">
           <UnlockConditionChallenge memberName="UnlockConditionRef">
             <Handle propertyName="ChallengeRewardRef" objID="3374733066"/>
-            <Level value="2"/>
+            <Level value="0"/>
           </UnlockConditionChallenge>
         </Pointer>
       </AbilityUnlockCondition>
@@ -2762,7 +2762,7 @@
         <Pointer propertyName="UnlockConditionRef" classID="1475552278">
           <UnlockConditionChallenge memberName="UnlockConditionRef">
             <Handle propertyName="ChallengeRewardRef" objID="453255673"/>
-            <Level value="2"/>
+            <Level value="0"/>
           </UnlockConditionChallenge>
         </Pointer>
       </AbilityUnlockCondition>
@@ -2771,7 +2771,7 @@
         <Pointer propertyName="UnlockConditionRef" classID="1475552278">
           <UnlockConditionChallenge memberName="UnlockConditionRef">
             <Handle propertyName="ChallengeRewardRef" objID="3374733065"/>
-            <Level value="2"/>
+            <Level value="0"/>
           </UnlockConditionChallenge>
         </Pointer>
       </AbilityUnlockCondition>
@@ -2780,7 +2780,7 @@
         <Pointer propertyName="UnlockConditionRef" classID="1475552278">
           <UnlockConditionChallenge memberName="UnlockConditionRef">
             <Handle propertyName="ChallengeRewardRef" objID="453255675"/>
-            <Level value="2"/>
+            <Level value="0"/>
           </UnlockConditionChallenge>
         </Pointer>
       </AbilityUnlockCondition>
@@ -2789,7 +2789,7 @@
         <Pointer propertyName="UnlockConditionRef" classID="1475552278">
           <UnlockConditionChallenge memberName="UnlockConditionRef">
             <Handle propertyName="ChallengeRewardRef" objID="453255676"/>
-            <Level value="2"/>
+            <Level value="0"/>
           </UnlockConditionChallenge>
         </Pointer>
       </AbilityUnlockCondition>
@@ -2798,7 +2798,7 @@
         <Pointer propertyName="UnlockConditionRef" classID="1475552278">
           <UnlockConditionChallenge memberName="UnlockConditionRef">
             <Handle propertyName="ChallengeRewardRef" objID="453255678"/>
-            <Level value="2"/>
+            <Level value="0"/>
           </UnlockConditionChallenge>
         </Pointer>
       </AbilityUnlockCondition>
@@ -2807,7 +2807,7 @@
         <Pointer propertyName="UnlockConditionRef" classID="1475552278">
           <UnlockConditionChallenge memberName="UnlockConditionRef">
             <Handle propertyName="ChallengeRewardRef" objID="453255679"/>
-            <Level value="2"/>
+            <Level value="0"/>
           </UnlockConditionChallenge>
         </Pointer>
       </AbilityUnlockCondition>
@@ -2816,7 +2816,7 @@
         <Pointer propertyName="UnlockConditionRef" classID="1475552278">
           <UnlockConditionChallenge memberName="UnlockConditionRef">
             <Handle propertyName="ChallengeRewardRef" objID="2494276425"/>
-            <Level value="2"/>
+            <Level value="0"/>
           </UnlockConditionChallenge>
         </Pointer>
       </AbilityUnlockCondition>
@@ -2825,7 +2825,7 @@
         <Pointer propertyName="UnlockConditionRef" classID="1475552278">
           <UnlockConditionChallenge memberName="UnlockConditionRef">
             <Handle propertyName="ChallengeRewardRef" objID="2494276316"/>
-            <Level value="2"/>
+            <Level value="0"/>
           </UnlockConditionChallenge>
         </Pointer>
       </AbilityUnlockCondition>
@@ -2834,7 +2834,7 @@
         <Pointer propertyName="UnlockConditionRef" classID="1475552278">
           <UnlockConditionChallenge memberName="UnlockConditionRef">
             <Handle propertyName="ChallengeRewardRef" objID="2494276243"/>
-            <Level value="2"/>
+            <Level value="0"/>
           </UnlockConditionChallenge>
         </Pointer>
       </AbilityUnlockCondition>
@@ -2843,7 +2843,7 @@
         <Pointer propertyName="UnlockConditionRef" classID="1475552278">
           <UnlockConditionChallenge memberName="UnlockConditionRef">
             <Handle propertyName="ChallengeRewardRef" objID="2494276317"/>
-            <Level value="2"/>
+            <Level value="0"/>
           </UnlockConditionChallenge>
         </Pointer>
       </AbilityUnlockCondition>
@@ -2852,7 +2852,7 @@
         <Pointer propertyName="UnlockConditionRef" classID="1475552278">
           <UnlockConditionChallenge memberName="UnlockConditionRef">
             <Handle propertyName="ChallengeRewardRef" objID="2494276755"/>
-            <Level value="2"/>
+            <Level value="0"/>
           </UnlockConditionChallenge>
         </Pointer>
       </AbilityUnlockCondition>
@@ -2861,7 +2861,7 @@
         <Pointer propertyName="UnlockConditionRef" classID="1475552278">
           <UnlockConditionChallenge memberName="UnlockConditionRef">
             <Handle propertyName="ChallengeRewardRef" objID="2494276428"/>
-            <Level value="2"/>
+            <Level value="0"/>
           </UnlockConditionChallenge>
         </Pointer>
       </AbilityUnlockCondition>
@@ -2870,7 +2870,7 @@
         <Pointer propertyName="UnlockConditionRef" classID="1475552278">
           <UnlockConditionChallenge memberName="UnlockConditionRef">
             <Handle propertyName="ChallengeRewardRef" objID="2494276423"/>
-            <Level value="2"/>
+            <Level value="0"/>
           </UnlockConditionChallenge>
         </Pointer>
       </AbilityUnlockCondition>
@@ -2879,7 +2879,7 @@
         <Pointer propertyName="UnlockConditionRef" classID="1475552278">
           <UnlockConditionChallenge memberName="UnlockConditionRef">
             <Handle propertyName="ChallengeRewardRef" objID="2494276638"/>
-            <Level value="2"/>
+            <Level value="0"/>
           </UnlockConditionChallenge>
         </Pointer>
       </AbilityUnlockCondition>
@@ -2888,7 +2888,7 @@
         <Pointer propertyName="UnlockConditionRef" classID="1475552278">
           <UnlockConditionChallenge memberName="UnlockConditionRef">
             <Handle propertyName="ChallengeRewardRef" objID="2494276426"/>
-            <Level value="2"/>
+            <Level value="0"/>
           </UnlockConditionChallenge>
         </Pointer>
       </AbilityUnlockCondition>
@@ -2897,7 +2897,7 @@
         <Pointer propertyName="UnlockConditionRef" classID="1475552278">
           <UnlockConditionChallenge memberName="UnlockConditionRef">
             <Handle propertyName="ChallengeRewardRef" objID="2494276637"/>
-            <Level value="2"/>
+            <Level value="0"/>
           </UnlockConditionChallenge>
         </Pointer>
       </AbilityUnlockCondition>
@@ -2906,7 +2906,7 @@
         <Pointer propertyName="UnlockConditionRef" classID="1475552278">
           <UnlockConditionChallenge memberName="UnlockConditionRef">
             <Handle propertyName="ChallengeRewardRef" objID="2494276430"/>
-            <Level value="2"/>
+            <Level value="0"/>
           </UnlockConditionChallenge>
         </Pointer>
       </AbilityUnlockCondition>
@@ -2915,7 +2915,7 @@
         <Pointer propertyName="UnlockConditionRef" classID="1475552278">
           <UnlockConditionChallenge memberName="UnlockConditionRef">
             <Handle propertyName="ChallengeRewardRef" objID="2494276424"/>
-            <Level value="2"/>
+            <Level value="0"/>
           </UnlockConditionChallenge>
         </Pointer>
       </AbilityUnlockCondition>
@@ -2924,7 +2924,7 @@
         <Pointer propertyName="UnlockConditionRef" classID="1475552278">
           <UnlockConditionChallenge memberName="UnlockConditionRef">
             <Handle propertyName="ChallengeRewardRef" objID="2494276427"/>
-            <Level value="2"/>
+            <Level value="0"/>
           </UnlockConditionChallenge>
         </Pointer>
       </AbilityUnlockCondition>
@@ -2933,7 +2933,7 @@
         <Pointer propertyName="UnlockConditionRef" classID="1475552278">
           <UnlockConditionChallenge memberName="UnlockConditionRef">
             <Handle propertyName="ChallengeRewardRef" objID="2494276757"/>
-            <Level value="2"/>
+            <Level value="0"/>
           </UnlockConditionChallenge>
         </Pointer>
       </AbilityUnlockCondition>
@@ -2942,7 +2942,7 @@
         <Pointer propertyName="UnlockConditionRef" classID="1475552278">
           <UnlockConditionChallenge memberName="UnlockConditionRef">
             <Handle propertyName="ChallengeRewardRef" objID="2494276633"/>
-            <Level value="2"/>
+            <Level value="0"/>
           </UnlockConditionChallenge>
         </Pointer>
       </AbilityUnlockCondition>
@@ -2951,7 +2951,7 @@
         <Pointer propertyName="UnlockConditionRef" classID="1475552278">
           <UnlockConditionChallenge memberName="UnlockConditionRef">
             <Handle propertyName="ChallengeRewardRef" objID="2494276431"/>
-            <Level value="2"/>
+            <Level value="0"/>
           </UnlockConditionChallenge>
         </Pointer>
       </AbilityUnlockCondition>
